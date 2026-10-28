@@ -1,6 +1,6 @@
 # butrelinux documentation
 
-These documents describe the implementation in this repository, not just the user-facing feature list.
+These documents describe the implementation in it's repository, not just the user-facing feature list.
 
 - [Architecture and image composition](architecture.md) — how recipes, shared modules, filesystem overlays, and custom BlueBuild modules combine.
 - [Kernel variants and custom-kernel internals](kernels.md) — kernel selection, NVIDIA integration, initramfs, signing, and risk areas.
