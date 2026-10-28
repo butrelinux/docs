@@ -11,3 +11,8 @@ These documents describe the implementation in this repository, not just the use
 ## Scope and caveats
 
 This documentation was written against the repository source. Where the code itself labels behavior untested or where workflows appear inconsistent, that is called out rather than treated as a supported guarantee. External dependencies (BlueBuild, CentOS Stream repositories, COPR, ELRepo, NVIDIA's installer, and image-builder) can change independently of this repository.
+
+# warning: 
+### this documentation was generated using AI against the codebase on october 14 2026.  
+### do not take it as gospel.  the code is the source of truth.  this repository is a hallucination.
+### this documentation should be considered an approximation until it is rewritten and maintained alongside the actual code.
